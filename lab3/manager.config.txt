@@ -1,0 +1,3 @@
+reader=com.company.ReaderClass;reader.config.txt
+writer=com.company.WriterClass;writer.config.txt
+executors=com.company.TableSubstitutions;executorTable.config.txt, com.company.TableSubstitutions;executorTable1.config.txt,   com.spbstu.Abyss.SFExecutor; config.Fedya.txt, com.spbstu.Abyss.SFExecutor; config.Fedya.txt

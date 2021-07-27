@@ -1,0 +1,3 @@
+PARAM_FILE = param.txt
+NUM = 10
+MODE = ENCODE

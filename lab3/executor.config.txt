@@ -1,0 +1,2 @@
+MODE = ENCODE
+NUM=10

@@ -1,0 +1,2 @@
+OUTPUT_FILE     =out.txt
+NUM = 10
